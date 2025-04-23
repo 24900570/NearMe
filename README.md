@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 07.12.2024
+## Date: 23.04.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -272,18 +272,19 @@ temple.html
 '''
 
 ## OUTPUT
+![Screenshot (243)](https://github.com/user-attachments/assets/6c556caf-da0f-4a96-9ea5-b1884430715d)
+![Screenshot (244)](https://github.com/user-attachments/assets/4ec455e6-cb35-465c-b190-6cff980c8706)
+![Screenshot (245)](https://github.com/user-attachments/assets/a5bda4d6-8b8f-4e8f-b2de-95369305de76)
+![Screenshot (246)](https://github.com/user-attachments/assets/ab88f0f1-6279-4123-9374-d1fb4a6ce3ae)
+![Screenshot (247)](https://github.com/user-attachments/assets/2b1cb880-76cc-438e-a384-73641af1423f)
+![Screenshot (248)](https://github.com/user-attachments/assets/57fc428e-d0c3-4204-a294-4c188e38374f)
 
-![alt text](<Screenshot 2024-12-06 230045.png>)
 
-![alt text](<Screenshot 2024-12-07 135704.png>)
 
-![alt text](<Screenshot 2024-12-07 135722.png>)
 
-![alt text](<Screenshot 2024-12-07 135746.png>)
 
-![alt text](<Screenshot 2024-12-07 135812.png>)
 
-![alt text](<Screenshot 2024-12-07 135833.png>)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
