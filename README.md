@@ -31,7 +31,7 @@ map.html
     <head>
         <title>Places in Thiruvananthapuram</title>
         <h1 align="center">Thiruvananthapuram</h1>
-        <h1 align="center">Created by: Renick Fabian Rajesh (212224230227)</h1>
+        <h1 align="center">Created by: AJITH A (212224230012)</h1>
     </head>
     <body bgcolor="silver"> 
         <img src="tvc.png" usemap="#image-map">
@@ -116,14 +116,19 @@ zoo.html
 ```
 
 ## OUTPUT
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
 
 
+![alt text](<Screenshot (251).png>)
+
+![alt text](<Screenshot (252).png>)
+
+![alt text](<Screenshot (253).png>)
+
+![alt text](<Screenshot (255).png>) 
+
+![alt text](<Screenshot (256).png>)
+
+![alt text](<Screenshot (257).png>)
 
 
 
